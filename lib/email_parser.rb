@@ -10,8 +10,6 @@ class EmailAddressParser
   parse_emails
   end
 
-# @list_emails.split(",") ||
-
 end #end of class EmailAddressParser
 
 #binding.pry
